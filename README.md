@@ -16,7 +16,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **Operacao Policial** é um cadastro de diligências policial que foi criado dentro do curso **Django com Python** com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
+O projeto **Operação Policial** é um cadastro de diligências policial que foi criado dentro do curso **Django com Python** com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
 
 ---
 
