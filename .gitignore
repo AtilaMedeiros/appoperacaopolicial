@@ -1,6 +1,6 @@
 *.sqlite3
 *.pyc
-.*
+
 media
 agenda/__pycache__
 agenda/migrations/__pycache__
@@ -11,3 +11,4 @@ enderecos/migrations/__pycache__
 pessoas/__pycache__
 pessoas/migrations/__pycache__
 *.md
+venv
