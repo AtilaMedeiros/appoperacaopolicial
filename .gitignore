@@ -2,7 +2,7 @@
 *.pyc
 
 media
-venv
+.venv
 agenda/__pycache__
 agenda/migrations/__pycache__
 
