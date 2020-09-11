@@ -44,7 +44,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ pip install -r requirements.txt
 
     # Crie o banco e tabelas
-    $ python3 manage.py makemigrations
+    $ python3 manage.py makemigrate
     $ python3 manage.py makemigrations
 
     # Crie o usuário
