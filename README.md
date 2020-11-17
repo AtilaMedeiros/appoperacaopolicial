@@ -59,5 +59,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ---
 
-Desenvolvido  por Átila Medeiros Lavor
+By Átila Medeiros Lavor
 
